@@ -299,4 +299,6 @@ MIT License - Feel free to use this for your projects!
 
 ## 👨‍💻 Author
 
-Built for the 24-hour GenAI Intern Assignment
+```
+CHARAN - saisricharan@gmail.com -> contact for more details.
+```
