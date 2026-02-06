@@ -1,0 +1,15 @@
+requests==2.31.0
+python-dotenv==1.0.0
+pydantic==2.6.0
+fastapi==0.109.0
+uvicorn==0.27.0
+httpx==0.27.0
+
+# LLM Providers (install based on what you want to use)
+# FREE options:
+groq>=0.4.1                    # Groq (FREE, recommended) - use latest stable
+google-generativeai==0.3.2     # Google Gemini (FREE tier)
+# Ollama requires local installation - see https://ollama.ai
+
+# Paid option:
+openai==1.12.0                 # OpenAI (paid)
