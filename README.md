@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-production--ready-success.svg)
 # AI Operations Assistant
 
 A multi-agent AI system that accepts natural-language tasks, plans steps, calls APIs, and returns structured results.
